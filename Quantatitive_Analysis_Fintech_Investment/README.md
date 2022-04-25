@@ -1,4 +1,4 @@
-# Quantative_Analysis_Fintech_Investments
+# Quantative Analysis
 Evaluating four new investment options for inclusion in client portfolios
 
 
