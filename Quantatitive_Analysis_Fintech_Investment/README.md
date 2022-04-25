@@ -8,7 +8,7 @@ In this evaluation, you'll assume the role of a quantitative analyst for a FinTe
 You've been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. (People sometimes refer to these managers as whales because of the large amount of money that they manage). You’ll need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
 ## What you are creating:
-1.  a Jupyter notebook that contains your data preparation, analysis, and visualizations for key risk and return metrics. Use text and comments to document your findings and demonstrate analysis. Specifically, this file should contain the following:
+1.  A Jupyter notebook that contains your data preparation, analysis, and visualizations for key risk and return metrics. Use text and comments to document your findings and demonstrate analysis. Specifically, this file should contain the following:
     1. A single DataFrame imported from a CSV file that has a DateTimeIndex.
     2. A risk analysis of the assets that the DataFrame contains vs. the S&P 500. This analysis should include risk-return metrics, including the daily returns, standard  deviation, Sharpe ratio, and beta.
     3. An evaluation of each asset that uses rolling statistics to track the risk-reward behavior over time.
